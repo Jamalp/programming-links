@@ -13,6 +13,8 @@
 
 ## Stack Overflow
 
+## There's still more to learn
+* [ReactJs](http://facebook.github.io/react/docs/getting-started.html)
+* [Device detection](http://www.smashingmagazine.com/2014/07/01/server-side-device-detection-with-javascript/?utm_source=javascriptweekly&utm_medium=email)
 
 ## Other
-
