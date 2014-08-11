@@ -1,16 +1,25 @@
 <h1>Bookmarks</h1>
 
 ## HTML
+* [Responsive Images: Use Cases and Documented Code Snippets](http://dev.opera.com/articles/responsive-images/)
+* [Email Templates from Send with us](https://www.sendwithus.com/resources/templates)
+
 
 ## Javascript
+* [Eloquent Javascript Ebook](http://eloquentjavascript.net/)
 * [BounceJS](http://bouncejs.com/)
 * [HeadroomJS](https://github.com/WickyNilliams/headroom.js)
 * [Scroll RevealJS](https://github.com/julianlloyd/scrollReveal.js)
 * [Unheap A tidy repository of jquery plugins](http://www.unheap.com/)
 * [Airbnb Javascript Style Guide](https://github.com/airbnb/javascript)
 * [Website Performance Optimization Udacity](https://www.udacity.com/course/ud884)
+* [How we make RWD sites load fast as heck](http://filamentgroup.com/lab/performance-rwd.html)
+
+* [Marka: Beautiful Icon Transofrmation](http://fian.my.id/marka/)
 
 ## CSS
+* [Github's CSS](http://markdotto.com/2014/07/23/githubs-css/)
+* [Pure CSS Parallax Website](http://blog.keithclark.co.uk/pure-css-parallax-websites/)
 
 ## Stack Overflow
 
