@@ -22,6 +22,7 @@
 * [Pure CSS Parallax Website](http://blog.keithclark.co.uk/pure-css-parallax-websites/)
 
 ## Stack Overflow
+* [Soft fullscreen prompt for mobile Safari](https://gist.github.com/bitinn/1700068a276fb29740a7)
 
 ## There's still more to learn
 * [ReactJs](http://facebook.github.io/react/docs/getting-started.html)
