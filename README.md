@@ -20,7 +20,7 @@
 ## CSS
 * [Github's CSS](http://markdotto.com/2014/07/23/githubs-css/)
 * [Pure CSS Parallax Website](http://blog.keithclark.co.uk/pure-css-parallax-websites/)
-
+* [CSS Layout Debbuger](https://gist.github.com/addyosmani/fd3999ea7fce242756b1)
 ## Stack Overflow
 * [Soft fullscreen prompt for mobile Safari](https://gist.github.com/bitinn/1700068a276fb29740a7)
 
