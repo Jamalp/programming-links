@@ -33,3 +33,4 @@
 
 ## Other
 * [Device detection](http://www.smashingmagazine.com/2014/07/01/server-side-device-detection-with-javascript/?utm_source=javascriptweekly&utm_medium=email)
+* [Chrome Dev Tools Tips & Tricks](http://devtoolstips.com/)
