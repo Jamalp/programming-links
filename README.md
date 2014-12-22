@@ -14,8 +14,8 @@
 * [Airbnb Javascript Style Guide](https://github.com/airbnb/javascript)
 * [Website Performance Optimization Udacity](https://www.udacity.com/course/ud884)
 * [How we make RWD sites load fast as heck](http://filamentgroup.com/lab/performance-rwd.html)
-
 * [Marka: Beautiful Icon Transofrmation](http://fian.my.id/marka/)
+* [Retina JS](http://imulus.github.io/retinajs/)
 
 ## CSS
 * [Github's CSS](http://markdotto.com/2014/07/23/githubs-css/)
